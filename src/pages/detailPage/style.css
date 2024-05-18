@@ -1,0 +1,20 @@
+.container {
+  width: 600px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+h2 {
+  text-align: center;
+}
+
+.big-photo {
+  width: 250px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.big-photo img {
+  width: 100%;
+  height: auto;
+}
